@@ -1,6 +1,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
-	 <<NetworkLink>
+    <NetworkLink>
         <name>NetworkLinked sub-item</name>
         <Link>
           <href>https://www.stortrack.com/kmlfiles/areas/B.kml</href>
