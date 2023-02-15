@@ -1,5 +1,21 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
+	 <<NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/B.kml</href>
+        </Link>
+    </NetworkLink>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/BA.kml</href>
+        </Link>
+    </NetworkLink>
+    <name>NE US Radar</name>
+    <refreshVisibility>1</refreshVisibility>
+    <flyToView>1</flyToView>
+    <Link></Link></NetworkLink>
 <Schema name="AB10_1" id="AB10_1">
 	<SimpleField name="sector" type="string"/>
 </Schema>
