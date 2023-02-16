@@ -85,5 +85,17 @@
           <href>https://www.stortrack.com/kmlfiles/areas/hx.kml</href>
         </Link>
     </NetworkLink>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/ig.kml</href>
+        </Link>
+    </NetworkLink>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/kt.kml</href>
+        </Link>
+    </NetworkLink>
   </Document>
 </kml>
