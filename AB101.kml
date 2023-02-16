@@ -19,5 +19,29 @@
           <href>https://www.stortrack.com/kmlfiles/areas/BH.kml</href>
         </Link>
     </NetworkLink>
+     <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/fk.kml</href>
+        </Link>
+    </NetworkLink>
+     <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/fy.kml</href>
+        </Link>
+    </NetworkLink>
+     <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/gl.kml</href>
+        </Link>
+    </NetworkLink>
+     <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/gu.kml</href>
+        </Link>
+    </NetworkLink>
   </Document>
 </kml>
