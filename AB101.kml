@@ -43,5 +43,47 @@
           <href>https://www.stortrack.com/kmlfiles/areas/gu.kml</href>
         </Link>
     </NetworkLink>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/ha.kml</href>
+        </Link>
+    </NetworkLink>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/hd.kml</href>
+        </Link>
+    </NetworkLink>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/hg.kml</href>
+        </Link>
+    </NetworkLink>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/hp.kml</href>
+        </Link>
+    </NetworkLink>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/hr.kml</href>
+        </Link>
+    </NetworkLink>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/hu.kml</href>
+        </Link>
+    </NetworkLink>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://www.stortrack.com/kmlfiles/areas/hx.kml</href>
+        </Link>
+    </NetworkLink>
   </Document>
 </kml>
