@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <NetworkLink>
+    <NetworkLink id="ID1">
         <name>NetworkLinked sub-item</name>
         <Link>
           <href>https://www.stortrack.com/kmlfiles/areas/w.kml</href>
         </Link>
     </NetworkLink>
-    <NetworkLink>
+    <NetworkLink id="ID2">
         <name>NetworkLinked sub-item</name>
         <Link>
           <href>https://www.stortrack.com/kmlfiles/areas/wa.kml</href>
