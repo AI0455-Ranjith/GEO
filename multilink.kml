@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://raw.githubusercontent.com/AI0455-Ranjith/GEO/main/EC4M%205.kml</href>
+        </Link>
+    </NetworkLink>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://raw.githubusercontent.com/AI0455-Ranjith/GEO/main/EC4M%207.kml</href>
+        </Link>
+    </NetworkLink>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://raw.githubusercontent.com/AI0455-Ranjith/GEO/main/EC2V%206.kml</href>
+        </Link>
+    </NetworkLink>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://raw.githubusercontent.com/AI0455-Ranjith/GEO/main/EC1A%207.kml</href>
+        </Link>
+    </NetworkLink>
+    <NetworkLink>
+        <name>NetworkLinked sub-item</name>
+        <Link>
+          <href>https://raw.githubusercontent.com/AI0455-Ranjith/GEO/main/AB101.kml</href>
+        </Link>
+    </NetworkLink>
+  </Document>
+</kml>
